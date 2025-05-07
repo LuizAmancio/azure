@@ -1,6 +1,6 @@
-# azure
+# Azure
 
-# O que é computação em nuvem?
+## O que é computação em nuvem?
 
 Fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 
@@ -44,3 +44,66 @@ Fornecimento de serviços de computação pela internet, habilitando inovações
 - Melhor previsão de custos
 - São fornecidos preços para recursos e serviços individuais
 - Cobrança feita com base no uso real
+
+## Benefícios da Nuvem
+
+### Alta disponibilidade
+
+- Garantia de disponibilidade máxima
+- Alguns pacotes oferecem garantias financeiras caso a disponibilidade não esteja dentro do combinado (**SLA**)
+
+### Escalabilidade
+
+- Capacidade de ajustar recursos para atender à demanda
+- Se a demanda aumentar, mais CPU e RAM podem ser adicionados (**escalabilidade vertical**)
+- Se a demanda cair, os recursos podem ser reduzidos, diminuindo também os custos
+
+### Elasticidade
+
+- Ajuste automático ou manual dos recursos conforme a variação na demanda
+- Expansão rápida com máquinas virtuais ou contêineres
+- Redução horizontal caso haja queda significativa de demanda
+
+### Confiabilidade
+
+- Design descentralizado e infraestrutura resiliente
+- Recursos implantados em diversos locais do mundo para maior estabilidade
+
+### Previsibilidade
+
+- Controle sobre custos e desempenho para tomada de decisões mais seguras
+
+### Segurança
+
+- Ferramentas de segurança avançadas, mas muitas precisam ser implementadas pelo próprio cliente
+
+### Governança
+
+- Auditoria baseada em nuvem ajuda a garantir conformidade com padrões corporativos
+- Estabelecer governança desde o início auxilia na preservação e segurança da nuvem
+
+### Gerenciabilidade
+
+- Implantação de recursos com modelos pré-configurados, reduzindo a necessidade de configurações manuais
+
+## Tipos de Serviços na Nuvem
+
+### IaaS (Infraestrutura como Serviço)
+
+- Criação de uma infraestrutura de TI de pagamento conforme uso
+- Possibilidade de alugar servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais
+- Exemplo: Azure Virtual Machines
+  
+
+### PaaS (Plataforma como Serviço)
+
+- Fornece um ambiente para a criação, teste e implantação de aplicativos
+- Ideal para desenvolvedores que não querem se preocupar com a infraestrutura subjacente
+- Exemplo: Azure App Services
+
+### SaaS (Software como Serviço)
+- Usuários acessam aplicativos baseados em nuvem via internet sem necessidade de instalação local
+- Exemplo: Microsoft Office 365
+
+## Modelo de Responsabilidade Compartilhada
+![Screenshot_1](https://github.com/user-attachments/assets/b87ccb57-d481-42b9-b9bb-f2a8d95f264d)
